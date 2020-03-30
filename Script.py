@@ -38,4 +38,6 @@ for k in jsonResp:
     )
 
 df = pd.DataFrame(listObj).set_index(0)
-print(df)
+df.rename(columns = {1:"data",2:"confidence level"}, inplace = True)
+df.to_excel("outputdata.xlsx")
+print("Done")
