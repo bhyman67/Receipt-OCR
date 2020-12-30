@@ -5,6 +5,10 @@
 
 <h1></h1>
 
+- [Description](#description)
+- [Data](#data)
+- [Code](#code)
+
 ### Description
 I took one of my <a href="https://github.com/bhyman67/Receipt-OCR/blob/master/reciept.jpg">reciepts</a> from King Soopers and wrote a script to extract data from it using the <a href = "https://www.taggun.io/">taggun api</a>. Taggun utilizes OCR. 
 
