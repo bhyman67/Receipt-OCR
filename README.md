@@ -31,4 +31,3 @@ Imagine the time savings if we needed to extract totals from hundreds of receipt
 ...
 
 <p align="right">Click <a href="https://github.com/bhyman67/Receipt-OCR">here</a> to view this project's repository<p>
-<p align="right">Go back to <a href="https://bhyman67.github.io/">BHyman Analytics</a><p>
